@@ -1,9 +1,5 @@
 ## ආයුබෝවන්
-Hi, I am Anupiya (yes, a Three syllables name) 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi, I am Anupiya (yes, a Three syllables name ;) ) 
 
 ```markdown
 Syntax highlighted code block
