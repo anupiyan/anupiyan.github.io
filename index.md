@@ -16,7 +16,7 @@ Sri Lanka Insititute of Information Technology, Sri Lanka.
 # Research
 My main research area is Natural Language Understanding.
 
-My post Doctoral position is on Medical Image Processing, for Whole Slide Images. 
+My post Doctoral position is on Medical Image Processing. 
 
 # This is under construction
 
