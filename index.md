@@ -2,9 +2,9 @@
 ## (May you have long life... Greeting from Sri Lanka)
 
 
-Hi, I am Anupiya (yes, a Three syllables name ;) ) 
+I am Anupiya (අනුපිය) Nugaliyadde  
 
-I am a Postdoctoral Research Fellow at Murdoch University, Western Australia.
+A Postdoctoral Research Fellow at Murdoch University, Western Australia.
 
 # Education
 PhD Title on Enhancing natural language understanding using meaning representation and deep learning (2020)
@@ -18,7 +18,7 @@ My main research area is Natural Language Understanding.
 
 My Post Doctoral position is on Medical Image Processing using deep learning. 
 
-# This is under construction
-
+# Publication
+Please see my Google Scholar for all publications (https://scholar.google.com/citations?user=v9OTVxAAAAAJ&hl=en)
 
 
