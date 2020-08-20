@@ -1,5 +1,5 @@
 # ආයුබෝවන් 
-## (May you have long life... Greeting from Sri Lanka)
+## (May you have long life... A Greeting in Sinhala)
 
 
 I am Anupiya (අනුපිය) Nugaliyadde  
