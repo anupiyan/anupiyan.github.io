@@ -3,8 +3,8 @@
 
 
 I am Anupiya Nugaliyadde (අනුපිය නුගලියද්ද)  
-
-A Postdoctoral Research Fellow at Murdoch University, Western Australia.
+I am the Principal Machine Learning at Icetana.
+I was a Postdoctoral Research Fellow at Murdoch University, Western Australia, working on an Artificial Intelligence product to support Pathologists in diagnosis for Western Australian Health.
 
 # Education
 PhD Title on Enhancing natural language understanding using meaning representation and deep learning (2020)
