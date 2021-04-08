@@ -4,6 +4,7 @@
 
 I am Anupiya Nugaliyadde (අනුපිය නුගලියද්ද)  
 I am the Principal Machine Learning at Icetana.
+
 I was a Postdoctoral Research Fellow at Murdoch University, Western Australia, working on an Artificial Intelligence product to support Pathologists in diagnosis for Western Australian Health.
 
 # Education
