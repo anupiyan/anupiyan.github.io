@@ -2,7 +2,7 @@
 ## (May you have long life... A Greeting in Sinhala)
 
 
-I am Anupiya (අනුපිය) Nugaliyadde  
+I am Anupiya Nugaliyadde (අනුපිය නුගලියද්ද)  
 
 A Postdoctoral Research Fellow at Murdoch University, Western Australia.
 
