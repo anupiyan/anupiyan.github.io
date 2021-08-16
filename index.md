@@ -3,8 +3,8 @@
 
 
 I am Anupiya Nugaliyadde (අනුපිය නුගලියද්ද).
+I am the Australian Computer Society Medallist for the Most Outstanding Ph.D. in 2020 for the industrial contributions to Western Australia in Data Science and Machine learning.
 
-I was a Postdoctoral Research Fellow at Murdoch University, Western Australia, working on an Artificial Intelligence product to support Pathologists in diagnosis for Western Australian Health.
 
 # Education
 PhD Title on Enhancing natural language understanding using meaning representation and deep learning (2020)
@@ -12,6 +12,9 @@ Murdoch University, Western Australia.
 
 BSc(Hons) in Information Technology, (2014)
 Sri Lanka Insititute of Information Technology, Sri Lanka.
+
+#Employement History
+I was a Postdoctoral Research Fellow at Murdoch University, Western Australia, working on an Artificial Intelligence product to support Pathologists in diagnosis for Western Australian Health.
 
 # Research
 My main research area is Natural Language Understanding.
