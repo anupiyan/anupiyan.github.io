@@ -13,7 +13,7 @@ Murdoch University, Western Australia.
 BSc(Hons) in Information Technology, (2014)
 Sri Lanka Insititute of Information Technology, Sri Lanka.
 
-#Employement History
+# Employement History
 I was a Postdoctoral Research Fellow at Murdoch University, Western Australia, working on an Artificial Intelligence product to support Pathologists in diagnosis for Western Australian Health.
 
 # Research
