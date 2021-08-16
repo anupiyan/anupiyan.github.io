@@ -2,7 +2,7 @@
 ## (May you have long life... A Greeting in Sinhala)
 
 
-I am Anupiya Nugaliyadde (අනුපිය නුගලියද්ද) the Principal Machine Learning at Icetana.
+I am Anupiya Nugaliyadde (අනුපිය නුගලියද්ද).
 
 I was a Postdoctoral Research Fellow at Murdoch University, Western Australia, working on an Artificial Intelligence product to support Pathologists in diagnosis for Western Australian Health.
 
