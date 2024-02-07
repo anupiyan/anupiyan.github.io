@@ -4,7 +4,7 @@ I am the Australian Computer Society Medallist for the Most Outstanding Ph.D. in
 
 
 # Education
-PhD Title on Enhancing natural language understanding using meaning representation and deep learning (2020)
+I won the Australian Computer Society's Most Outstanding Ph.D. in 2020 for the Title on Enhancing natural language understanding using meaning representation and deep learning (2020)
 Murdoch University, Western Australia.
 
 BSc(Hons) in Information Technology, (2014)
