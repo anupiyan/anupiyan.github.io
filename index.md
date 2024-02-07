@@ -11,7 +11,8 @@ BSc(Hons) in Information Technology, (2014)
 Sri Lanka Insititute of Information Technology, Sri Lanka.
 
 # Employement History
-Now, I am working as a Senior Data Scientist at Idoba.
+I am the AI Team Lead for Norwood System.
+I worked as a Senior Data Scientist at Idoba.
 I was the Principal Machine Learning at icetana.
 I was a Postdoctoral Research Fellow at Murdoch University, Western Australia, working on an Artificial Intelligence product to support Pathologists in diagnosis for Western Australian Health.
 
