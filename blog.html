@@ -1,0 +1,26 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
+<section class="post-header" style="text-align:left;">
+  <span class="eyebrow">Writing</span>
+  <h1 style="font-size:38px; margin-top:14px;">Blog</h1>
+  <p style="margin-top:14px; font-size:16px;">Notes on explainable AI, NLP, and building production ML systems.</p>
+</section>
+
+<div class="wrap post-body" style="max-width: 900px;">
+  <div class="post-list">
+    {% for post in site.posts %}
+    <a class="post-row" href="{{ post.url | relative_url }}">
+      <div class="post-date">{{ post.date | date: "%b %d, %Y" }}</div>
+      <div>
+        <h3>{{ post.title }}</h3>
+        <p>{{ post.excerpt | strip_html | truncatewords: 28 }}</p>
+        <span class="read-more">Read more →</span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>

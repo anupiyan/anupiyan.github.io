@@ -1,3 +1,22 @@
-theme: jekyll-theme-minimal
-title: ආයුබෝවන්
-description: Bookmark this to keep an eye on my project updates!
+title: Anupiya Nugaliyadde
+description: AI engineer working on explainable AI, NLP, and production ML.
+author: Anupiya Nugaliyadde
+url: "https://anupiyan.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /blog/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
