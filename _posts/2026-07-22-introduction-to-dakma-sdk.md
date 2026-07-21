@@ -1,3 +1,9 @@
+---
+title: "Introducing Dakma-SDK"
+date: 2026-07-22
+excerpt: "An introduction to an SDK on explainability and transparency."
+---
+
 # Your ML Pipeline Already Knows Why It Made That Decision. Are You Capturing It?
 
 Picture the last time someone asked you to explain a model's decision after the fact. Maybe it was a credit score that got flagged, or a churn prediction a stakeholder didn't trust. You went back to the notebook, re-ran SHAP, cross-referenced which version of the model was in production that week, and pieced together an explanation that took an afternoon to produce and would be stale the moment the model retrained.
